@@ -10,3 +10,5 @@ you will need to create a main HTML file with single homepage, with 3 options to
 - change into video
 
 you will also need to work on separate CSS and JS files
+
+### *PS: All work need to be done in "WORKING" branch*
